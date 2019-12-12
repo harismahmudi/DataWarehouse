@@ -146,7 +146,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Barang Keluar"
-                    android:textSize="15dp"
+                    android:textSize="20dp"
                     android:textColor="@color/white">
 
                 </TextView>
