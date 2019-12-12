@@ -42,7 +42,7 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Sign In"
+            android:text="masuk"
             android:textColor="@color/white"
             android:textSize="20dp">
 
