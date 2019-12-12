@@ -73,7 +73,7 @@
                     android:id="@+id/txt_namaReg"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    android:hint="Nama"
+                    android:hint="anan...rawonholic"
                     android:theme="@style/TextLabel"/>
             </com.google.android.material.textfield.TextInputLayout>
 
